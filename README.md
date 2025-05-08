@@ -3,7 +3,7 @@ Opa campeão(a), seja bem-vindo ao meu perfil 😮‍💨 😸
 Aqui você se deparará com muita maldade muahahaha 😈
 <!
  Sou uma brasileira estudante do novo ensino 😿
-    ![](https://tenor.com/pt-BR/view/jinx-gif-24201465)
+    ![](https://media1.tenor.com/m/0HpryqBWJm8AAAAd/jinx.gif)
 
 
 Estou trabalhando em um repositório que simula uma apresentação do meu perfil.
@@ -14,7 +14,8 @@ Estou trabalhando em um repositório que simula uma apresentação do meu perfil
 - 🔭 I’m currently working on "Rebeca Flor1ano".
  
 - 🌱 Estou aprendendo a nadar...
-    ![]([https://tenor.com/pt-BR/view/finding-dory-jenny-gif-15177751741595714481)
+- 
+    ![](https://media1.tenor.com/m/0qI0yzbhA7EAAAAC/finding-dory-jenny.gif)
   
 - 👯 I’m looking to collaborate on ...
 - 
@@ -22,7 +23,7 @@ Estou trabalhando em um repositório que simula uma apresentação do meu perfil
 - 
 - 💬 Ask me about ...
 - 
-- 📫 How to reach me: ...
+- 📫 How to reach me: através do zap zap
 - 
 - 😄 Meus pronomes são Tre/vas
 - 
