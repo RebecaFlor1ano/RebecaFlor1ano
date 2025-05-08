@@ -3,7 +3,7 @@ Opa campeão(a), seja bem-vindo ao meu perfil 😮‍💨 😸
 Aqui você se deparará com muita maldade muahahaha 😈
 <!
  Sou uma brasileira estudante do novo ensino 😿
-![](https://media1.tenor.com/m/ZcpmQD3YhQ4AAAAd/veeunus-yandere-simulator.gif)
+![](https://tenor.com/pt-BR/view/jinx-gif-24201465)
 
 
 Estou trabalhando em um repositório que simula uma apresentação do meu perfil.
@@ -13,8 +13,9 @@ Estou trabalhando em um repositório que simula uma apresentação do meu perfil
 
 - 🔭 I’m currently working on "Rebeca Flor1ano".
 - 
-- 🌱 I’m currently learning music.
-- 
+- 🌱 Estou aprendendo a nadar...
+ ![](https://tenor.com/pt-BR/view/finding-dory-jenny-gif-15177751741595714481).
+ 
 - 👯 I’m looking to collaborate on ...
 - 
 - 🤔 I’m looking for help with ...
