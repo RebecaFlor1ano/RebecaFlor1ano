@@ -17,8 +17,9 @@ Estou trabalhando em um repositório que simula uma apresentação do meu perfil
 - 
     ![](https://media1.tenor.com/m/0qI0yzbhA7EAAAAC/finding-dory-jenny.gif)
   
-- 👯 I’m looking to collaborate on ...
-- 
+- Sou apenas um mero mortal tentando sobreviver nesse vasto mundo.
+
+- ![](https://tenor.com/pt-BR/view/chill-zone-space-stars-gif-16971516).
 - 🤔 I’m looking for help with ...
 - 
 - 💬 Ask me about ...
