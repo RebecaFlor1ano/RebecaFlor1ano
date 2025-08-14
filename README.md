@@ -25,5 +25,5 @@ Estou trabalhando em um repositório que simula uma apresentação do meu perfil
 - 💬 Se precisar, me contate através do email 00001114453584sp@al.educacao.sp.gov.br
 
 - Uma amante de literatura e música clássica.
-1[](https://tenor.com/pt-BR/view/arcane-jinx-get-jinxed-dance-arcane-season-2-gif-13595117790303603821.gif)
+![](https://tenor.com/pt-BR/view/arcane-jinx-get-jinxed-dance-arcane-season-2-gif-13595117790303603821.gif)
 
