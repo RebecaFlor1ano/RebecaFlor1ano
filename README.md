@@ -19,7 +19,7 @@ Estou trabalhando em um repositório que simula uma apresentação do meu perfil
   
 - Sou apenas um mero mortal tentando sobreviver nesse vasto mundo.
 
-  ![](https://tenor.com/pt-BR/view/chill-zone-space-stars-gif-16971516).
+  ![](https://tenor.com/pt-BR/view/chill-zone-space-stars-gif-16971516.gif).
   
 - 🤔 I’m looking for help with ...
 - 
