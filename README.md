@@ -13,7 +13,7 @@ Estou trabalhando em um repositório que simula uma apresentação do meu perfil
 
 - 🔭 I’m currently working on "Rebeca Flor1ano".
  
-- 🌱 Estou aprendendo a nadar...
+- 💧 Estou aprendendo a nadar...
 - 
     ![](https://media1.tenor.com/m/0qI0yzbhA7EAAAAC/finding-dory-jenny.gif)
   
