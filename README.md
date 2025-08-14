@@ -19,15 +19,10 @@ Estou trabalhando em um repositório que simula uma apresentação do meu perfil
   
 - Sou apenas um mero mortal tentando sobreviver nesse vasto mundo.
 
-  ![](https://tenor.com/pt-BR/view/chill-zone-space-stars-gif-16971516.gif).
+  ![](https://tenor.com/pt-BR/view/chill-zone-space-stars-gif-16971516.gif)
   
-- 🤔 I’m looking for help with ...
-- 
-- 💬 Ask me about ...
-- 
-- 📫 How to reach me: através do zap zap
-- 
-- 😄 Meus pronomes são Tre/vas
-- 
-- ⚡ Fato
--->
+ 
+- 💬 Se precisar, me contate através do email 00001114453584sp@al.educacao.sp.gov.br
+
+- Uma amante de literatura e música clássica.
+
